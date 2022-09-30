@@ -1,2 +1,35 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+// Console.WriteLine("Cats are cool guys!");
+
+
+// using System;
+
+// namespace GettingInput
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       Console.WriteLine("How old are you?");
+//       string input = Console.ReadLine();
+//       Console.WriteLine($"You are {input} years old!");
+//     }
+//   }
+// }
+
+using System;
+
+namespace Cats
+{
+    class Program
+    {
+        static void Main()
+
+        {
+Console.WriteLine("How many cats do you have?");
+string input = Console.ReadLine();
+Console.WriteLine($"I wish I had {input} cats!");
+
+}
+    }
+        }
