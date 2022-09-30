@@ -1,0 +1,15 @@
+/Users/rachel/Documents/Rachel SOC/c#/bin/Debug/net6.0/c#
+/Users/rachel/Documents/Rachel SOC/c#/bin/Debug/net6.0/c#.deps.json
+/Users/rachel/Documents/Rachel SOC/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/Users/rachel/Documents/Rachel SOC/c#/bin/Debug/net6.0/c#.dll
+/Users/rachel/Documents/Rachel SOC/c#/bin/Debug/net6.0/c#.pdb
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.dll
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/refint/c#.dll
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.pdb
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/Users/rachel/Documents/Rachel SOC/c#/obj/Debug/net6.0/ref/c#.dll
