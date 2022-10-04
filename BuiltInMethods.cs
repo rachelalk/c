@@ -27,27 +27,27 @@
 
 //More built in methods
 
-using System;
+// using System;
 
-namespace DocumentationHunt
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
+// namespace DocumentationHunt
+// {
+//   class Program
+//   {
+//     static void Main(string[] args)
+//     {
 
-      double numberOne = 6.5;
-      double numberTwo = 4;
+//       double numberOne = 6.5;
+//       double numberTwo = 4;
 
-      // Raise numberOne to the numberTwo power
-      Console.WriteLine(Math.Pow(numberOne, numberTwo));
+//       // Raise numberOne to the numberTwo power
+//       Console.WriteLine(Math.Pow(numberOne, numberTwo));
 
-      // Round numberOne up
-      Console.WriteLine(Math.Ceiling(numberOne));
+//       // Round numberOne up
+//       Console.WriteLine(Math.Ceiling(numberOne));
 
-      // Find the larger number between numberOne and numberTwo
-      Console.WriteLine(Math.Max(numberOne, numberTwo));
+//       // Find the larger number between numberOne and numberTwo
+//       Console.WriteLine(Math.Max(numberOne, numberTwo));
 
-    }
-  }
-}
+//     }
+//   }
+// }
