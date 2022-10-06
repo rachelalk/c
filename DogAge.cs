@@ -1,26 +1,26 @@
-//Basic dog age calculator
+// //Basic dog age calculator
 
-using System;
+// using System;
 
-namespace Review
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
+// namespace Review
+// {
+//   class Program
+//   {
+//     static void Main(string[] args)
+//     {
 
-      int age = 32;
+//       int age = 32;
 
-      int yearOne = 15;
+//       int yearOne = 15;
 
-      int yearTwo = 9;
+//       int yearTwo = 9;
 
-      int remainingYears = 4;
+//       int remainingYears = 4;
 
-      int dogYears = (age - 2) * remainingYears + yearOne + yearTwo;
+//       int dogYears = (age - 2) * remainingYears + yearOne + yearTwo;
 
-      Console.WriteLine(dogYears);
+//       Console.WriteLine(dogYears);
 
-    }
-  }
-}
+//     }
+//   }
+// }
