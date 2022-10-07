@@ -1,28 +1,28 @@
-using System;
+// using System;
 
-namespace DNA
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      // dna strand
-      string startStrand = "ATGCGATGAGCTTAC";
+// namespace DNA
+// {
+//   class Program
+//   {
+//     static void Main(string[] args)
+//     {
+//       // dna strand
+//       string startStrand = "ATGCGATGAGCTTAC";
 
-      // find location of "tga"
-int tga = startStrand.IndexOf("TGA");
+//       // find location of "tga"
+// int tga = startStrand.IndexOf("TGA");
 
-      // start point and stop point variables
-int startPoint = 0;
-int length = tga+3;
+//       // start point and stop point variables
+// int startPoint = 0;
+// int length = tga+3;
 
-      // define final strand
-string dna = startStrand.Substring(startPoint, length);
+//       // define final strand
+// string dna = startStrand.Substring(startPoint, length);
 
-Console.WriteLine(dna);
+// Console.WriteLine(dna);
 
-      // DNA mutation search
-Console.WriteLine(dna[3]);
-    }
-  }
-}
+//       // DNA mutation search
+// Console.WriteLine(dna[3]);
+//     }
+//   }
+// }
